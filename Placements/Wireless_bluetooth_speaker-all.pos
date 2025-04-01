@@ -1,0 +1,20 @@
+### Footprint positions - created on 2025-04-01T11:14:21+0100 ###
+### Printed by KiCad version 9.0.0
+## Unit = mm, Angle = deg.
+## Side : All
+# Ref     Val          Package                                                    PosX       PosY       Rot  Side
+BT1       Battery      Battery_Panasonic_CR1632-V1AN_Vertical_CircularHoles   164.4250   -96.2250   90.0000  top
+C1        10uF         C_Elec_3x5.4                                           128.4250   -89.7500    0.0000  top
+C2        100nF        C_Elec_3x5.4                                           126.7500  -107.2500    0.0000  top
+D1        LED          LED_miniPLCC_2315                                      165.5250  -109.1000    0.0000  top
+J1        USB_B_Micro  USB_Micro-B_GCT_USB3076-30-A                           151.6500   -93.6500    0.0000  top
+L1        10uH         L_0805_2012Metric                                      145.4625   -87.6000    0.0000  top
+LS1       Speaker      Speaker_CUI_CMR-1206S-67                               136.7750  -100.3500    0.0000  top
+R1        10k          R_0815_2038Metric                                      141.5250  -113.8500    0.0000  top
+R2        1k           R_0815_2038Metric                                      158.0250  -113.1000    0.0000  top
+R3        1k           R_0815_2038Metric                                      162.2750  -113.1000    0.0000  top
+U1        BTM112       NINA-B111                                              149.7500  -110.9250    0.0000  top
+U2        PAM8403D     SOP-16_3.9x9.9mm_P1.27mm                               135.0250  -111.3500    0.0000  top
+U3        AMS1117-5.0  SOT-223-3_TabPin2                                      137.0250   -89.8500    0.0000  top
+U4        BQ24090DGQ   HVSSOP-10-1EP_3x3mm_P0.5mm_EP1.57x1.88mm_ThermalVias   159.2750  -107.3500    0.0000  top
+## End

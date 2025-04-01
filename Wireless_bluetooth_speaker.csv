@@ -1,0 +1,14 @@
+"Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref";
+1;"C2";"C_Elec_3x5.4";1;"100nF";;;
+2;"C1";"C_Elec_3x5.4";1;"10uF";;;
+3;"U3";"SOT-223-3_TabPin2";1;"AMS1117-5.0";;;
+4;"L1";"L_0805_2012Metric";1;"10uH";;;
+5;"U4";"HVSSOP-10-1EP_3x3mm_P0.5mm_EP1.57x1.88mm_ThermalVias";1;"BQ24090DGQ";;;
+6;"U2";"SOP-16_3.9x9.9mm_P1.27mm";1;"PAM8403D";;;
+7;"U1";"NINA-B111";1;"BTM112";;;
+8;"R3,R2";"R_0815_2038Metric";2;"1k";;;
+9;"R1";"R_0815_2038Metric";1;"10k";;;
+10;"LS1";"Speaker_CUI_CMR-1206S-67";1;"Speaker";;;
+11;"J1";"USB_Micro-B_GCT_USB3076-30-A";1;"USB_B_Micro";;;
+12;"D1";"LED_miniPLCC_2315";1;"LED";;;
+13;"BT1";"Battery_Panasonic_CR1632-V1AN_Vertical_CircularHoles";1;"Battery";;;
